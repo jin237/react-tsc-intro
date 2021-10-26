@@ -1,4 +1,4 @@
-# React　 + TypeScript入門　
+# React+TypeScript入門　
 Youtube & Articles(Qiita, Zenn)
 
 
