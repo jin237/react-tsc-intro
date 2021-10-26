@@ -6,7 +6,7 @@ Youtube & Articles(Qiita, Zenn)
 - [ ] [超TypeScript入門完全パック- TypeScriptでアプリを作りたい方必見！](https://www.youtube.com/watch?v=F9vzRz6jyRk)
 
 
-### Youtube: 【とらゼミ】トラハックのエンジニア学習講座（新・日本一わかりやすいReact入門【基礎編】）
+### YouTube: 【とらゼミ】トラハックのエンジニア学習講座（新・日本一わかりやすいReact入門【基礎編】）
 - [x] [#01 新・日本一わかりやすいReact入門【基礎編】Reactの基礎知識](https://www.youtube.com/watch?v=dTghhYtvPek&list=PLX8Rsrpnn3IWPoM7-1YPDksRRkamRY25k&index=1)
 - [x] [#02 新・日本一わかりやすいReact入門【基礎編】JSXの記法](https://www.youtube.com/watch?v=dTghhYtvPek&list=PLX8Rsrpnn3IWPoM7-1YPDksRRkamRY25k&index=2)
 - [x] [#03 新・日本一わかりやすいReact入門【基礎編】create-react-appで環境構築](https://www.youtube.com/watch?v=dTghhYtvPek&list=PLX8Rsrpnn3IWPoM7-1YPDksRRkamRY25k&index=3)
@@ -17,8 +17,10 @@ Youtube & Articles(Qiita, Zenn)
 - [ ] [#08 新・日本一わかりやすいReact入門【基礎編】ライフサイクルと副作用を理解しよう](https://www.youtube.com/watch?v=7MzVcLAtl8g&list=PLX8Rsrpnn3IWPoM7-1YPDksRRkamRY25k&index=8)
 - [ ] [#09 新・日本一わかりやすいReact入門【基礎編】useEffect内でAPIを呼び出そう](https://www.youtube.com/watch?v=7MzVcLAtl8g&list=PLX8Rsrpnn3IWPoM7-1YPDksRRkamRY25k&index=9)
 
+### YouTube: 【とらゼミ】トラハックのエンジニア学習講座（これからTypeScriptを始める全ての人たちへ）
+- [ ] [【お知らせ】新講座開講 - これからTypeScriptを始める全ての人たちへ【日本一わかりやすいTypeScript入門】](https://www.youtube.com/watch?v=kd8VH10jXwc) 
 
-### Youtube: 【とらゼミ】トラハックのエンジニア学習講座（ReactとTypeScriptの相性が良すぎる理由を解説）
+### YouTube: 【とらゼミ】トラハックのエンジニア学習講座（ReactとTypeScriptの相性が良すぎる理由を解説）
 - [ ] [ReactとTypeScriptの相性が良すぎる理由を解説しよう](https://www.youtube.com/watch?v=X6haQpKrooM)
 
 
